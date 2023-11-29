@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HBCDM.API", "HBCDM.API\HBCDM.API.csproj", "{59E2A3A7-A44B-4375-A8E3-0BE73E8F46FD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HBCDM.Domain", "HBCDM.Domain\HBCDM.Domain.csproj", "{DAEA3091-A41C-4E8E-8444-209D798A16A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HBCDM.Infrastructure", "HBCDM.Infrastructure\HBCDM.Infrastructure.csproj", "{C2678CB0-E3BF-4A39-9732-6B7721D8BD2D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HBCDM.Services", "HBCDM.Services\HBCDM.Services.csproj", "{D20AB297-74B8-45A0-AA7E-C407AEBF0ED6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HBCDM.Entites", "HBCDM.Entites\HBCDM.Entites.csproj", "{5A6C12C6-C5CF-42AD-8EA8-51816674756B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59E2A3A7-A44B-4375-A8E3-0BE73E8F46FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59E2A3A7-A44B-4375-A8E3-0BE73E8F46FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59E2A3A7-A44B-4375-A8E3-0BE73E8F46FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59E2A3A7-A44B-4375-A8E3-0BE73E8F46FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAEA3091-A41C-4E8E-8444-209D798A16A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAEA3091-A41C-4E8E-8444-209D798A16A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAEA3091-A41C-4E8E-8444-209D798A16A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAEA3091-A41C-4E8E-8444-209D798A16A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2678CB0-E3BF-4A39-9732-6B7721D8BD2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2678CB0-E3BF-4A39-9732-6B7721D8BD2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2678CB0-E3BF-4A39-9732-6B7721D8BD2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2678CB0-E3BF-4A39-9732-6B7721D8BD2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D20AB297-74B8-45A0-AA7E-C407AEBF0ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D20AB297-74B8-45A0-AA7E-C407AEBF0ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D20AB297-74B8-45A0-AA7E-C407AEBF0ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D20AB297-74B8-45A0-AA7E-C407AEBF0ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A6C12C6-C5CF-42AD-8EA8-51816674756B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A6C12C6-C5CF-42AD-8EA8-51816674756B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A6C12C6-C5CF-42AD-8EA8-51816674756B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A6C12C6-C5CF-42AD-8EA8-51816674756B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BC1757B-D29B-4095-8C09-F89748AE8259}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://constellationhb.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = HBCDM.API\\HBCDM.API.csproj
+		SccProjectName1 = HBCDM.API
+		SccLocalPath1 = HBCDM.API
+		SccProjectUniqueName2 = HBCDM.Domain\\HBCDM.Domain.csproj
+		SccProjectName2 = HBCDM.Domain
+		SccLocalPath2 = HBCDM.Domain
+		SccProjectUniqueName3 = HBCDM.Infrastructure\\HBCDM.Infrastructure.csproj
+		SccProjectName3 = HBCDM.Infrastructure
+		SccLocalPath3 = HBCDM.Infrastructure
+		SccProjectUniqueName4 = HBCDM.Services\\HBCDM.Services.csproj
+		SccProjectName4 = HBCDM.Services
+		SccLocalPath4 = HBCDM.Services
+		SccProjectUniqueName5 = HBCDM.Entites\\HBCDM.Entites.csproj
+		SccProjectName5 = HBCDM.Entites
+		SccLocalPath5 = HBCDM.Entites
+	EndGlobalSection
+EndGlobal

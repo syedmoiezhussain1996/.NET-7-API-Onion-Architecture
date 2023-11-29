@@ -1,0 +1,15 @@
+D:\DataService\HBCDM.Common\bin\Release\net7.0\HBCDM.Entites.deps.json
+D:\DataService\HBCDM.Common\bin\Release\net7.0\HBCDM.Entites.dll
+D:\DataService\HBCDM.Common\bin\Release\net7.0\HBCDM.Entites.pdb
+D:\DataService\HBCDM.Common\bin\Release\net7.0\HBCDM.Domain.dll
+D:\DataService\HBCDM.Common\bin\Release\net7.0\HBCDM.Domain.pdb
+D:\DataService\HBCDM.Common\obj\Release\net7.0\HBCDM.Entites.csproj.AssemblyReference.cache
+D:\DataService\HBCDM.Common\obj\Release\net7.0\HBCDM.Entites.GeneratedMSBuildEditorConfig.editorconfig
+D:\DataService\HBCDM.Common\obj\Release\net7.0\HBCDM.Entites.AssemblyInfoInputs.cache
+D:\DataService\HBCDM.Common\obj\Release\net7.0\HBCDM.Entites.AssemblyInfo.cs
+D:\DataService\HBCDM.Common\obj\Release\net7.0\HBCDM.Entites.csproj.CoreCompileInputs.cache
+D:\DataService\HBCDM.Common\obj\Release\net7.0\HBCDM.Entites.csproj.CopyComplete
+D:\DataService\HBCDM.Common\obj\Release\net7.0\HBCDM.Entites.dll
+D:\DataService\HBCDM.Common\obj\Release\net7.0\refint\HBCDM.Entites.dll
+D:\DataService\HBCDM.Common\obj\Release\net7.0\HBCDM.Entites.pdb
+D:\DataService\HBCDM.Common\obj\Release\net7.0\ref\HBCDM.Entites.dll

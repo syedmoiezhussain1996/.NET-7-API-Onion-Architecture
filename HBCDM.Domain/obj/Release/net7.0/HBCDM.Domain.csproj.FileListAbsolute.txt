@@ -1,0 +1,14 @@
+D:\DataService\API\HBCDM.Domain\bin\Release\net7.0\HBCDM.Domain.deps.json
+D:\DataService\API\HBCDM.Domain\bin\Release\net7.0\HBCDM.Domain.runtimeconfig.json
+D:\DataService\API\HBCDM.Domain\bin\Release\net7.0\HBCDM.Domain.dll
+D:\DataService\API\HBCDM.Domain\bin\Release\net7.0\HBCDM.Domain.pdb
+D:\DataService\API\HBCDM.Domain\obj\Release\net7.0\HBCDM.Domain.csproj.AssemblyReference.cache
+D:\DataService\API\HBCDM.Domain\obj\Release\net7.0\HBCDM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DataService\API\HBCDM.Domain\obj\Release\net7.0\HBCDM.Domain.AssemblyInfoInputs.cache
+D:\DataService\API\HBCDM.Domain\obj\Release\net7.0\HBCDM.Domain.AssemblyInfo.cs
+D:\DataService\API\HBCDM.Domain\obj\Release\net7.0\HBCDM.Domain.csproj.CoreCompileInputs.cache
+D:\DataService\API\HBCDM.Domain\obj\Release\net7.0\HBCDM.Domain.dll
+D:\DataService\API\HBCDM.Domain\obj\Release\net7.0\refint\HBCDM.Domain.dll
+D:\DataService\API\HBCDM.Domain\obj\Release\net7.0\HBCDM.Domain.pdb
+D:\DataService\API\HBCDM.Domain\obj\Release\net7.0\HBCDM.Domain.genruntimeconfig.cache
+D:\DataService\API\HBCDM.Domain\obj\Release\net7.0\ref\HBCDM.Domain.dll

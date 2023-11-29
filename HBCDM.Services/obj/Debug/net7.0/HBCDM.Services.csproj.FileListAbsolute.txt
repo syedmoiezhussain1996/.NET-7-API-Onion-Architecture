@@ -1,0 +1,17 @@
+D:\DataService\API\HBCDM.Services\bin\Debug\net7.0\HBCDM.Services.deps.json
+D:\DataService\API\HBCDM.Services\bin\Debug\net7.0\HBCDM.Services.dll
+D:\DataService\API\HBCDM.Services\bin\Debug\net7.0\HBCDM.Services.pdb
+D:\DataService\API\HBCDM.Services\bin\Debug\net7.0\HBCDM.Domain.dll
+D:\DataService\API\HBCDM.Services\bin\Debug\net7.0\HBCDM.Domain.pdb
+D:\DataService\API\HBCDM.Services\obj\Debug\net7.0\HBCDM.Services.csproj.AssemblyReference.cache
+D:\DataService\API\HBCDM.Services\obj\Debug\net7.0\HBCDM.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\DataService\API\HBCDM.Services\obj\Debug\net7.0\HBCDM.Services.AssemblyInfoInputs.cache
+D:\DataService\API\HBCDM.Services\obj\Debug\net7.0\HBCDM.Services.AssemblyInfo.cs
+D:\DataService\API\HBCDM.Services\obj\Debug\net7.0\HBCDM.Services.csproj.CoreCompileInputs.cache
+D:\DataService\API\HBCDM.Services\obj\Debug\net7.0\HBCDM.Services.csproj.CopyComplete
+D:\DataService\API\HBCDM.Services\obj\Debug\net7.0\HBCDM.Services.dll
+D:\DataService\API\HBCDM.Services\obj\Debug\net7.0\refint\HBCDM.Services.dll
+D:\DataService\API\HBCDM.Services\obj\Debug\net7.0\HBCDM.Services.pdb
+D:\DataService\API\HBCDM.Services\obj\Debug\net7.0\ref\HBCDM.Services.dll
+D:\DataService\API\HBCDM.Services\bin\Debug\net7.0\HBCDM.Entites.dll
+D:\DataService\API\HBCDM.Services\bin\Debug\net7.0\HBCDM.Entites.pdb

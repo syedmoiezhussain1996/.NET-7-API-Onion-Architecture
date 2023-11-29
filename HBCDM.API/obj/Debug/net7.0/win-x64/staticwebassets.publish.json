@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0v6xSHzBWBUFsJsknBMpih4ttOQj+2/Cm5xANvK63kw=",
+  "Source": "HBCDM.API",
+  "BasePath": "_content/HBCDM.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,12 @@
+D:\DataService\HBCDM.Common\bin\Release\net7.0\HBCDM.Common.deps.json
+D:\DataService\HBCDM.Common\bin\Release\net7.0\HBCDM.Common.dll
+D:\DataService\HBCDM.Common\bin\Release\net7.0\HBCDM.Common.pdb
+D:\DataService\HBCDM.Common\obj\Release\net7.0\HBCDM.Common.csproj.AssemblyReference.cache
+D:\DataService\HBCDM.Common\obj\Release\net7.0\HBCDM.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\DataService\HBCDM.Common\obj\Release\net7.0\HBCDM.Common.AssemblyInfoInputs.cache
+D:\DataService\HBCDM.Common\obj\Release\net7.0\HBCDM.Common.AssemblyInfo.cs
+D:\DataService\HBCDM.Common\obj\Release\net7.0\HBCDM.Common.csproj.CoreCompileInputs.cache
+D:\DataService\HBCDM.Common\obj\Release\net7.0\HBCDM.Common.dll
+D:\DataService\HBCDM.Common\obj\Release\net7.0\refint\HBCDM.Common.dll
+D:\DataService\HBCDM.Common\obj\Release\net7.0\HBCDM.Common.pdb
+D:\DataService\HBCDM.Common\obj\Release\net7.0\ref\HBCDM.Common.dll

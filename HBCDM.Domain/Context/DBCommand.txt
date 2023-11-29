@@ -1,0 +1,7 @@
+﻿Scaffold-DbContext "Data Source=hbmk-cdm.public.f8b5d1a8c255.database.windows.net,3342;Initial Catalog=HBCDM;User ID=APIUser;Password=HBCDM-APIUser2023"
+Microsoft.EntityFrameworkCore.SqlServer -OutputDir Entities -Context -Force
+
+dotnet ef dbcontext scaffold "Server=Server=52.142.20.120,51455;Database=SalesLogix81;User ID=deploymentcentral_ro;password=Ad22@@locad;MultipleActiveResultSets=True" Microsoft.EntityFrameworkCore.SqlServer -o Models 
+
+For My SQl
+PM> Scaffold-DbContext "Server=10.175.4.26; Database=cupdater;convert zero datetime=true;User=greg;Password=greg;SslMode=None" MySql.EntityFrameworkCore -OutputDir Context/ProductionReleaseContext -f
